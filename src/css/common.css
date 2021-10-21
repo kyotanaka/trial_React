@@ -1,0 +1,20 @@
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial;
+}
+
+/*MotorDriveTime*/
+.column{
+  width: 126px;
+}
+.motorDrive{
+  border: none;
+  width: 380px;
+  height: 56px;
+  display: inline-block;
+}

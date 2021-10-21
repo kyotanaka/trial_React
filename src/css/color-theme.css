@@ -1,0 +1,9 @@
+/*! @file
+ * @brief カラーテーマ
+ */
+
+body {
+	background-color: #1a1a1a;
+	color: whitesmoke;
+	border-color: gray;
+}
